@@ -1,4 +1,4 @@
-# Indian Bovine Breeds Classifier
+# Bovine Breed Classification 11 breeds
 
 **Deployed Project**: [Hugging Face Space](https://huggingface.co/spaces/riddhi111/Cow_breed_classification)
 
@@ -31,8 +31,7 @@ The work covers the entire machine learning pipeline—dataset preparation, mode
 * **Data cleaning**: Removed noisy and incomplete images, addressed cases with multiple or occluded cows.
 * **Augmentation**: Applied random rotations, flips, resizing, and normalization to improve robustness.
 * **Segmentation**: Explored **SAM ViT-B** for cow segmentation, later switched to **YOLO** for efficiency.
-
-
+* **11 Breeds included**: ["Ayrshire", "Brown_Swiss", "Gir", "Hallikar", "Holstein_Friesian", "Jersey", "Kankrej", "Nagpuri", "Ongole", "Sahiwal", "Tharparkar"]
 ---
 
 ## Model Development and Training
