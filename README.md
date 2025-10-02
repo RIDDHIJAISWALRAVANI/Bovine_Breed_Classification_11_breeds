@@ -32,13 +32,6 @@ The work covers the entire machine learning pipeline—dataset preparation, mode
 * **Augmentation**: Applied random rotations, flips, resizing, and normalization to improve robustness.
 * **Segmentation**: Explored **SAM ViT-B** for cow segmentation, later switched to **YOLO** for efficiency.
 
-**Dataset structure:**
-
-```
-data/
- ├── train/<breed_name>/*.jpg
- └── test/<breed_name>/*.jpg
-```
 
 ---
 
