@@ -73,7 +73,7 @@ The work covers the entire machine learning pipeline—dataset preparation, mode
 
 
 
-GitHub Repository: [https://github.com/hackers108/Bovine-Breed-Classifier-](https://github.com/RIDDHIJAISWALRAVANI/Bovine_Breed_Classification_11_breeds)
+GitHub Repository: (https://github.com/RIDDHIJAISWALRAVANI/Bovine_Breed_Classification_11_breeds)
 
 ---
 
