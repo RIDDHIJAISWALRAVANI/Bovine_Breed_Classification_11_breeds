@@ -18,7 +18,7 @@ The work covers the entire machine learning pipeline—dataset preparation, mode
 
 ## Key Achievements
 
-* Achieved **80% validation accuracy** across **12 Indian bovine breeds**.
+* Achieved **80% validation accuracy** across **11 Indian bovine breeds**.
 * Designed and deployed a **Gradio web application** for inference and labeling.
 * Deployed the solution on **Hugging Face Spaces**.
 * Integrated with **GitHub** for reproducibility and model updates.
